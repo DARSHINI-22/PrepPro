@@ -1,0 +1,7 @@
+{
+  "name": "PrepPro: All-in-One Placement App",
+  "description": "A comprehensive placement preparation platform covering DSA, Aptitude, GATE CSE, TOEFL, Foreign Languages, and AI-powered Mock Interviews.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
